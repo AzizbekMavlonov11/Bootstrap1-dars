@@ -1,0 +1,14 @@
+body{
+    background-color: darkgreen;
+}
+.box{
+    width: 100px;
+    height: 50px;
+    border: 1px solid red;
+}
+.box2{
+    width: 100px;
+    height: 50px;
+    border: 1px solid red;
+    margin-left: 200px ;
+}
